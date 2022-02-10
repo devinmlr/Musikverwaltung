@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Musiktitel
+comment1.params=pTitel\ pInterpret\ pDateiname
+comment1.target=Musiktitel(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Musiktitel\r\n
+comment2.params=
+comment2.target=java.lang.String\ getTitel()
+comment3.params=
+comment3.target=java.lang.String\ getInterpret()
+comment4.params=
+comment4.target=java.lang.String\ getDateiname()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

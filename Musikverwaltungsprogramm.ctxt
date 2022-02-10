@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Musikverwaltungsprogramm
+comment1.params=
+comment1.target=Musikverwaltungsprogramm()
+comment10.params=dateiname
+comment10.target=DynArray\ methode1(java.lang.String)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=e
+comment5.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment6.params=
+comment6.target=void\ loadTitles()
+comment7.params=
+comment7.target=void\ show2()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+comment9.params=titel\ interpret
+comment9.target=boolean\ titelVorhanden(java.lang.String,\ java.lang.String)
+numComments=11

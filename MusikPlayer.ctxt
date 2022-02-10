@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=MusikPlayer
+comment0.text=\r\n\ @author\ David\ J.\ Barnes\ und\ Michael\ K\u00C3\u00B6lling\r\n\ @version\ 31.07.2011\r\n
+comment1.params=
+comment1.target=MusikPlayer()
+comment10.params=dateiname
+comment10.target=void\ meldeProblem(java.lang.String)
+comment2.params=dateiname
+comment2.target=void\ dateiAnspielen(java.lang.String)
+comment3.params=dateiname
+comment3.target=void\ starteAbspielen(java.lang.String)
+comment4.params=
+comment4.target=void\ run()
+comment5.params=
+comment5.target=void\ stop()
+comment6.params=dateiname
+comment6.target=void\ playerVorbereiten(java.lang.String)
+comment7.params=dateiname
+comment7.target=java.io.InputStream\ gibEingabestream(java.lang.String)
+comment8.params=
+comment8.target=javazoom.jl.player.AudioDevice\ erzeugeAudiogeraet()
+comment9.params=
+comment9.target=void\ killPlayer()
+numComments=11
